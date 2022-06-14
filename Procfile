@@ -1,1 +1,1 @@
-worker: python bot\laba_bot.py
+worker: python laba_bot.py
